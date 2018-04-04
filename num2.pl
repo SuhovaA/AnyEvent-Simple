@@ -1,7 +1,8 @@
 use 5.016;
 use warnings;
-use Socket;
 use lib './lib';
+use Socket;
+
 use AnyEvent::Simple;
 
 use Fcntl qw(F_GETFL F_SETFL O_NONBLOCK);
