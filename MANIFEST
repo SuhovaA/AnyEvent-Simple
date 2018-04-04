@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/AnyEvent-Simple.t
+lib/AnyEvent/Simple.pm

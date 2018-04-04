@@ -1,0 +1,6 @@
+Revision history for Perl extension AnyEvent::Simple.
+
+0.01  Mon Apr  2 18:28:52 2018
+	- original version; created by h2xs 1.23 with options
+		-n AnyEvent::Simple -b 5.16.0 -X
+
